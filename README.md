@@ -1,4 +1,8 @@
-### Hi there, I´m Gabriel 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Gabriel</h1>
+
+<ul>
+  <li>Systems Development Student at Etec from Peruíbe.</li>
+</ul>
 
 ## Learning
 
