@@ -2,6 +2,7 @@
 
 <ul>
   <li>Systems Development Student at Etec from Peruíbe.</li>
+  <li>Focused on desktop/mobile application development.</li>
 </ul>
 
 ## Learning
