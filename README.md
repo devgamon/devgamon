@@ -6,6 +6,20 @@
 Systems Development student at Etec de Peruíbe, focused on desktop/mobile application development.
 </p>
 
+<p align="left">
+  <a href="#" alt="ProtonMail">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+  <a href="#" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>  
+
 <div>
   <a href="https://github.com/devgamon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgamon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
