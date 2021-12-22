@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&labelColor=100000&logo=github&logoColor=white"/>
 </p>
 
-  <div>
+  <div align="center">
     <a href="https://github.com/devgamon">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgamon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgamon&layout=compact&langs_count=7&theme=tokyonight"/>
