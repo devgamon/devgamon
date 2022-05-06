@@ -28,22 +28,16 @@
   <li>:pushpin: Open for collaborations.</li>
 </ul>
 
-<h2>:cyclone: Learning</h2>
+<h2>:file_folder: File Versioning</h2>
 
 <p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&labelColor=E34F26&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&labelColor=1572B6&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&labelColor=323330&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&labelColor=43853D&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&labelColor=14354C&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=777BB4&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&labelColor=00000F&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&labelColor=20232A&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&labelColor=20232A&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&labelColor=100000&logo=github&logoColor=white"/>
+   <a href="https://github.com/devgamon" target="_blank"><img height="30" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://gitlab.com/devgamon" target="_blank"><img height="30" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+   <a href="https://bitbucket.org/devgamon" target="_black"><img height="30" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
+   <a href="https://pt.stackoverflow.com/users/287392/gabriel-gamon" target="_black"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-E34F26?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/devgamon">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgamon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgamon&layout=compact&langs_count=7&theme=tokyonight"/>
