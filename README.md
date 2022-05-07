@@ -15,7 +15,7 @@
   <a href="https://medium.com/@youngPoet" target="_blank" alt="Medium">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   
-  <a href="https://www.instagram.com/yongemici/" target="_blank" alt="Reddit">
+  <a href="https://www.reddit.com/user/yongmc_" target="_blank" alt="Reddit">
   <img src="https://img.shields.io/badge/Reddit-E34F26?style=for-the-badge&logo=reddit&logoColor=white"></a>
 </p>  
 
