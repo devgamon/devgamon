@@ -6,17 +6,18 @@
 </p>
 
 <p align="left">  
-  <a href="#" alt="Linkedin">
+  <a href="#" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-  <a href="https://medium.com/@devgamon" alt="Facebook">
-  <img src="https://img.shields.io/badge/Instagram-330F63?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/yongemici/" target="_blank" alt="Instagram" >
+  <img src="https://img.shields.io/badge/Instagram-4B275F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
-  <a href="https://medium.com/@youngPoet" alt="Twitter">
+  <a href="https://twitter.com/yongmc_" target="_blank" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  
+  <a href="https://medium.com/@youngPoet" target="_blank" alt="Medium">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
-  <a href="#" alt="ProtonMail">
-  <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&labelColor=8B89CC&logo=protonmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 </p>  
 
 <h2>:interrobang: About me</h2>
