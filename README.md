@@ -12,7 +12,7 @@
   <a href="https://medium.com/@devgamon" alt="Facebook">
   <img src="https://img.shields.io/badge/Instagram-330F63?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
-  <a href="https://medium.com/@devgamon" alt="Twitter">
+  <a href="	https://medium.com/@youngPoet" alt="Twitter">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
   <a href="#" alt="ProtonMail">
