@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">  
-  <a href="#" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabrielgamon/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   <a href="https://twitter.com/yongmc_" target="_blank" alt="Twitter">
