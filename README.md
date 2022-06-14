@@ -7,41 +7,41 @@
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/gabrielgamon/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 
   <a href="https://twitter.com/yongmc_" target="_blank" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-Twitter-330F63?style=flat&logo=twitter&logoColor=white"></a>
    
   <a href="https://medium.com/@youngPoet" target="_blank" alt="Medium">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"></a>
   
   <a href="https://www.reddit.com/user/yongmc_" target="_blank" alt="Reddit">
-  <img src="https://img.shields.io/badge/Reddit-E34F26?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-Reddit-E34F26?style=flat&logo=reddit&logoColor=white"></a>
 </p>  
 
 <h2>:interrobang: About me</h2>
 
 <ul align="left">
-  <li>:gem: I'm a web/mobile Developer.</li>
-  <li>:open_file_folder: I intend to focus more on desktop/mobile applications development.</li>
-  <li>:microphone: I love to rhyme, freestyle is my scream.</li>
-  <li>:pushpin: Open for collaborations.</li>
+  <li>I'm a web/mobile Developer.</li>
+  <li>I intend to focus more on desktop/mobile applications development.</li>
+  <li>I love to rhyme, freestyle is my scream.</li>
+  <li>Open for collaborations.</li>
 </ul>
 
 <h2>:file_folder: File Versioning</h2>
 
 <p align="left">
    <a href="https://github.com/devgamon" target="_blank" alt="GitHub">
-   <img height="30" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+   <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white"></a>
   
    <a href="https://gitlab.com/devgamon" target="_blank" alt="GitLab">
-   <img height="30" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/></a>
   
    <a href="https://bitbucket.org/devgamon" target="_black" alt="BitBucket">
-   <img height="30" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/-Bitbucket-330F63?style=flat&logo=bitbucket&logoColor=white"/></a>
   
    <a href="https://pt.stackoverflow.com/users/287392/gabriel-gamon" target="_black" alt="StackOverflow">
-   <img height="30" src="https://img.shields.io/badge/Stack_Overflow-E34F26?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/-Stack_Overflow-E34F26?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
   <div align="left">
