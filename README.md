@@ -1,10 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Hi there, I'm Gabriel</h2>
 
-<p align="left"> 
-  Systems Development Student at Etec from Peruíbe.
-  Focused on desktop/mobile application development.
-</p>
-
 <p align="left">  
   <a href="https://www.linkedin.com/in/gabrielgamon/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
@@ -19,16 +14,15 @@
   <img src="https://img.shields.io/badge/-Reddit-E34F26?style=flat&logo=reddit&logoColor=white"></a>
 </p>  
 
-<h2>:interrobang: About me</h2>
+### About me
 
-<ul align="left">
-  <li>I'm a web/mobile Developer.</li>
-  <li>I intend to focus more on desktop/mobile applications development.</li>
-  <li>I love to rhyme, freestyle is my scream.</li>
-  <li>Open for collaborations.</li>
-</ul>
+* I'm studying Systems Development at Etec from Peruíbe.
+* Interested in frontend development.
+* I love skateboarding (I love doing tricks).
+* Open for collaborations.
 
-<h2>:file_folder: File Versioning</h2>
+
+### File Versioning
 
 <p align="left">
    <a href="https://github.com/devgamon" target="_blank" alt="GitHub">
